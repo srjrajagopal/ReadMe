@@ -1,0 +1,9 @@
+C:\CTS\GitHub\ReadMe\bin\Debug\ReadMe.exe.config
+C:\CTS\GitHub\ReadMe\bin\Debug\ReadMe.exe
+C:\CTS\GitHub\ReadMe\bin\Debug\ReadMe.pdb
+C:\CTS\GitHub\ReadMe\obj\Debug\ReadMe.csprojResolveAssemblyReference.cache
+C:\CTS\GitHub\ReadMe\obj\Debug\ReadMe.TextReader.resources
+C:\CTS\GitHub\ReadMe\obj\Debug\ReadMe.Properties.Resources.resources
+C:\CTS\GitHub\ReadMe\obj\Debug\ReadMe.csproj.GenerateResource.Cache
+C:\CTS\GitHub\ReadMe\obj\Debug\ReadMe.exe
+C:\CTS\GitHub\ReadMe\obj\Debug\ReadMe.pdb
